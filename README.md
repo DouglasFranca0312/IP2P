@@ -4,7 +4,7 @@ IP2P é um bot desenvolvido para transmitir e armazenar dados utilizando a infra
 
 O projeto foi criado com o objetivo de permitir o envio de dados simples, como texto e imagens, que são registrados em um canal específico do servidor.
 
-O bot utiliza um canal de texto chamado transmission dentro do servidor Discord.
+O bot utiliza um canal de texto chamado "node" (ou nó) dentro do servidor Discord.
 Toda informação enviada através do bot é publicada nesse canal, funcionando como um ponto de armazenamento e transmissão de dados.
 
 Dessa forma, o canal atua como um registro de mensagens, permitindo que os dados sejam acessados posteriormente ou utilizados por outros sistemas conectados ao bot.
